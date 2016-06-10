@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Firebase App</string>
+
+    <string name="title_to_remember">Title</string>
+    <string name="description_to_remember">Description</string>
+
+    <string name="send">Send</string>
+</resources>
